@@ -241,7 +241,7 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("📺 Movies 📺", url="https://t.me/movierequestgroupNj"), 
+                [InlineKeyboardButton("📺 Movies 📺", url="https://t.me/movierequestgroupNj")] 
             ]
         )
     )
