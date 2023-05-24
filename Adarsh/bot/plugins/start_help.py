@@ -236,7 +236,7 @@ async def about_handler(bot, message):
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/kwicfiletolinkbot'>𝗡𝗝 𝗕𝗢𝗜</a></b>
 ┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/MovierequestgroupNj>𝐌𝐨𝐯𝐢𝐞 𝐆𝐫𝐨𝐮𝐩</a></b>
 ┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+<b>╰━━━━━━━〔𝙋𝙇𝙀𝘼𝙎𝙀 𝙎𝙐𝙋𝙋𝙊𝙍𝙏〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
